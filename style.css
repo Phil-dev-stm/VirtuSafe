@@ -86,3 +86,28 @@ footer {
     width: 100%;
     bottom: 0;
 }
+.about-content {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+.contact-content {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.contact-content a {
+    color: var(--secondary-color);
+    text-decoration: none;
+    font-weight: bold;
+}
