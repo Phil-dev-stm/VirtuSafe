@@ -1,0 +1,42 @@
+/* VirtuSafe Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #2C5F2D; /* Olive Green */
+    color: white;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background-color: #3AA76D; /* Emerald Green */
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+}
+
+/* Sections */
+section {
+    padding: 40px;
+}
+
+/* Footer */
+footer {
+    background-color: black;
+    padding: 15px;
+}
